@@ -1,0 +1,84 @@
+.myprojects{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 80px;
+    padding: 40px;
+    
+}
+.myprojects-title{
+    position: relative;
+   
+    
+}
+.myprojects-title h1{
+   font-size: 2.3rem;
+    font-weight: 500;
+}
+
+.myprojects-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px;
+}
+
+.myprojects-container img{
+    width: 350px;
+    height: 220px;
+    box-sizing: border-box;
+    transition: 0.3s;
+    cursor: pointer;
+    border-radius:8px ;
+    
+}
+
+.myprojects-container img:hover{
+    transform: scale(1.10);
+    border: 4px solid #ff00ff;
+    border-radius: 10px;
+    transition: 0.3s;
+   
+}
+.projects{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-family: Outfit;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+@media(max-width:768px){
+    .myprojects{
+        gap: 50px;
+        margin: 50px 40px;
+        align-items: start;
+    }
+    .myprojects-title h1{
+        padding: 0;
+        font-size: 50px;
+        font-weight: 600;
+    }
+
+    .myprojects-container{
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+    .myprojects-container img{
+        width: 100%;
+        height: 100%;
+    }
+    .title{
+        font-size: 10px;
+        text-align: center;
+        margin-top: 10px;
+        
+    }
+
+}
