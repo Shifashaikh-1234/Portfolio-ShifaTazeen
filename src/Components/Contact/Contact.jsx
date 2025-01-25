@@ -38,7 +38,7 @@ const Contact = () => {
         </div>
       <div className="contact-section">
         <div className="contact-left">
-            <h1>Let's talk</h1>
+            <h1>Let's Connect</h1>
         <div className="contact-details">
             <div className="contact-detail-each">
              <CiFacebook size={35}/> <p>MirzaShifaTazeen</p>
