@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 20px 60px;
+    margin: 20px 45px;
     position: sticky;
 }
 
@@ -21,7 +21,7 @@
     text-decoration: none;
     font-family: Outfit;
     font-weight: 500;
-    padding: 0px 20px;
+    padding: 0px 10px;
     
 
     
@@ -45,7 +45,7 @@
 
 
 .nav-connect{
-    padding: 20px 30px;
+    padding: 20px 20px;
     border-radius: 50px;
     background-image: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.0%);
     font-size: 1.2rem;
