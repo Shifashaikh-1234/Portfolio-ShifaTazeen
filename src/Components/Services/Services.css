@@ -62,24 +62,27 @@
     transform: scale(1.05);
     transition: 0.4s;
 }
-@media(max-width:545px){
+@media(max-width: 545px){
     .services{
-        gap: 50px;
-        margin: 50px 50px;
+        gap: 40px;
+        margin-top: 50px;
+        margin-left: 30px;
+        margin-right: 20px;
         align-items: start;
     }
     .service-title h1{
         padding: 0;
         font-size: 50px;
         font-weight: 600;
-        margin-left: 30px;
+        margin-left: 50px;
+        padding-left: 40px;
     }
     .services-format{
         gap: 20px;
         padding: 10px;
         display: flex;
         flex-direction: column;
-        min-width: 250px;
+        min-width: 200px;
         
       
 
