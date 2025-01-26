@@ -56,7 +56,8 @@ const MyProjects = () => {
       {myProjects_data.map((work, index)=>{
         return(
             <div className="projects">
-            <img key={index} src={work.image} alt=""/>
+                        <a href='https://github.com/Shifashaikh-1234'><img key={index} src={work.image} alt=""/></a>
+
             <div className="title">
                 <h1>{work.name}</h1>
             </div>
