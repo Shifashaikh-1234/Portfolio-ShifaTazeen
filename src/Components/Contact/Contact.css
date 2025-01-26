@@ -107,7 +107,7 @@ gap: 30px
 }
 
 
-@media(max-width:545px){
+@media(max-width: 545px){
     .contact{
         gap: 40px;
         margin: 50px 40px;
