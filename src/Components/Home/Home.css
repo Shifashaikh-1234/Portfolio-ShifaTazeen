@@ -76,11 +76,12 @@
         justify-content: center;
         flex-direction: column;
         align-items: center;
+        margin-left:40px;
     }
     .profile-img{
         margin-top: 30px;
         margin-bottom: 20px;
-        margin-left: 30px;
+        margin-left: 20px;
         margin-right: 20px;
        
     }
@@ -101,6 +102,7 @@
         font-size: 18px;
         font-weight: 500;
         margin-bottom: 40px;
+        margin-left: 25px;
     }
     .hero-connect{
         padding-left: 20px 30px;
