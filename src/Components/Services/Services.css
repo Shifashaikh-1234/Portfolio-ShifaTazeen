@@ -64,9 +64,9 @@
 }
 @media(max-width: 545px){
     .services{
-        gap: 40px;
+        gap: 35px;
         margin-top: 50px;
-        margin-left: 30px;
+        margin-left: 20px;
         margin-right: 20px;
         align-items: start;
     }
