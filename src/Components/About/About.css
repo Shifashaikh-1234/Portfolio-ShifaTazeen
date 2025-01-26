@@ -116,11 +116,14 @@
     transition: 0.5s;
 }
 
-@media(max-width:545px){
+@media(max-width: 545px){
     .about{
         gap: 60px;
-        margin: 40px 60px;
+        margin-top: 40px;
+        margin-left: 30px;
+        margin-right: 20px;
         align-items: start;
+        width: 100vw;
     }
     .about h1{
         font-size: 40px;
