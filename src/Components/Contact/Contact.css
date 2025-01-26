@@ -134,13 +134,13 @@ gap: 30px
 
     }
     .contact-right input{
-        width: 100%;
+        width: 250px;
         font-size: 20px;
         height: 50px;
         
     }
     .contact-right textarea{
-        width: 90%;
+        width: 200px;
         font-size: 20px;
 
 
