@@ -41,7 +41,7 @@ const Contact = () => {
             <h1>Let's Connect</h1>
         <div className="contact-details">
           
-         <a href="https://www.linkedin.com/in/shifa-m-258b24321"> <div className="contact-detail-each">
+         <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B4ncNipRYSOaZl54ZFY58vw%3D%3D"> <div className="contact-detail-each">
               <CiLinkedin size={35} color="#ffffff"/> <p>MirzaShifa</p> 
             </div>
          </a>
