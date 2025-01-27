@@ -40,15 +40,18 @@ const Contact = () => {
         <div className="contact-left">
             <h1>Let's Connect</h1>
         <div className="contact-details">
-            <div className="contact-detail-each">
-             <CiFacebook size={35}/> <p>MirzaShifaTazeen</p>
-            </div>
-            <div className="contact-detail-each">
+          
+         <a href="www.linkedin.com/in/shifa-m-258b2432"> <div className="contact-detail-each">
               <CiLinkedin size={35}/> <p>MirzaShifa</p> 
             </div>
-            <div className="contact-detail-each">
+         </a>
+          
+            <a href="">
+          <div className="contact-detail-each">
                 <FaGithubSquare size={35}/> <p>Shifashaikh-1234</p>
             </div>
+              </a>
+          
             <div className="contact-detail-each">
                 <SiGmail size={30}/> <p>shifatazeen.msc@gmail.com</p>
             </div>
