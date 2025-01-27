@@ -135,6 +135,9 @@ gap: 30px
         text-decoration: none;
 
     }
+    .contact-details a{
+    text-decoration: none;
+}
     .contact-right label{
         font-size: 20px;
 
