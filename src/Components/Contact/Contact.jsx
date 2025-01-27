@@ -46,7 +46,7 @@ const Contact = () => {
             </div>
          </a>
           
-            <a href="">
+            <a href="https://github.com/Shifashaikh-1234">
           <div className="contact-detail-each">
                 <FaGithubSquare size={35}/> <p>Shifashaikh-1234</p>
             </div>
