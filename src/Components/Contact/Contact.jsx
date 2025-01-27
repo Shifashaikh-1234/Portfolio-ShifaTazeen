@@ -41,7 +41,7 @@ const Contact = () => {
             <h1>Let's Connect</h1>
         <div className="contact-details">
           
-         <a href="www.linkedin.com/in/shifa-m-258b24321"> <div className="contact-detail-each">
+         <a href="https://www.linkedin.com/in/shifa-m-258b24321"> <div className="contact-detail-each">
               <CiLinkedin size={35} color="#ffffff"/> <p>MirzaShifa</p> 
             </div>
          </a>
