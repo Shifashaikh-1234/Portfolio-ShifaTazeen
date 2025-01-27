@@ -42,13 +42,13 @@ const Contact = () => {
         <div className="contact-details">
           
          <a href="www.linkedin.com/in/shifa-m-258b2432"> <div className="contact-detail-each">
-              <CiLinkedin size={35} color="#fff"/> <p>MirzaShifa</p> 
+              <CiLinkedin size={35} color="#ffffff"/> <p>MirzaShifa</p> 
             </div>
          </a>
           
             <a href="https://github.com/Shifashaikh-1234">
           <div className="contact-detail-each">
-                <FaGithubSquare size={35} color="#fff" /> <p>Shifashaikh-1234</p>
+                <FaGithubSquare size={35} color="#ffffff" /> <p>Shifashaikh-1234</p>
             </div>
               </a>
           
